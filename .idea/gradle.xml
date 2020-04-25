@@ -9,6 +9,10 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/actors" />
+            <option value="$PROJECT_DIR$/crqc" />
+            <option value="$PROJECT_DIR$/docker" />
+            <option value="$PROJECT_DIR$/docker/client" />
+            <option value="$PROJECT_DIR$/docker/emulator" />
             <option value="$PROJECT_DIR$/reactive" />
           </set>
         </option>

@@ -2,4 +2,6 @@ rootProject.name = 'ppo'
 
 include 'actors'
 include 'reactive'
-
+include 'crqc'
+include 'docker:emulator'
+include 'docker:client'
